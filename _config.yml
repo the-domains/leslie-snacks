@@ -1,0 +1,28 @@
+name: Leslie Snacks
+favicon: null
+layout_spectrum: 0.9172262067440897
+typography_spectrum: 0.7260750625282526
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3705062286462635
+  lightness: 0.29054366680793464
+  saturation: 0.5850645590107888
+  rhythmicContrast: 0.5763286661822349
+purpose: []
